@@ -1,7 +1,4 @@
-<h1 align="center">
-  <img alt="JobstheDay title="JobstheDay" src="https://i.imgur.com/Veqm7Gh.png" width="220px" />
-</h1>
-
+## <h1 align="center"> JOBS THE DAY</h1>
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -9,17 +6,7 @@
   <a href="#memo-licença">Licença</a>
 </p>
 
-<p align="center">
- <img src="https://img.shields.io/static/v1?label=PRs&message=welcome&color=49AA26&labelColor=000000" alt="PRs welcome!" />
-
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
-</p>
-
 <br>
-
-<p align="center">
-  <img alt="dev.finances" src=".github/jobscalc.png" width="100%">
-</p>
 
 ## 🚀 Tecnologias
 
@@ -39,7 +26,7 @@ O JobsCalc é uma aplicação de estimativa de cálculo para projetos freelancer
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/s4fytPFbDiSkv4GPSfKaLE/Jobs-Planning). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout 2.0 do projeto através [desse link](https://www.figma.com/file/9ZnTYWAiKBC3en5pnuDuJQ/?node-id=1%3A2). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
 
